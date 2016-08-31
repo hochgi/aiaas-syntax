@@ -1,0 +1,15 @@
+{
+  "name": "aiaas-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax highlighting similar to what I use in my blog",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/hochgi/aiaas-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
